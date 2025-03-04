@@ -10,9 +10,9 @@ A passionate Full-Stack Developer at Zoho, where I specialize in building and ma
 
 
 [![GitHub followers](https://img.shields.io/badge/Madhav-BBDDE5?logo=refinedgithub)](https://github.com/sharanmadhav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanmadhav/)](sharanmadhav)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharanmadhav/)
 [![Medium](https://img.shields.io/badge/Medium-0ACF83?logo=medium)](https://medium.com/@sharanmadhavd)
-[![Peerlist](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://medium.com/@sharanmadhavd)
+[![Peerlist](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/madhav_baby_giraffe)
 
 ## 💻 Tech Stack
 
@@ -72,4 +72,4 @@ A passionate Full-Stack Developer at Zoho, where I specialize in building and ma
 ## 📫 How to reach me
 
 - 📧 Email: contact@sharanmadhav07@gmail.com
-- 💼 LinkedIn: [[subham-singh-cc](https://www.linkedin.com/in/sharanmadhav/)]
+- 💼 LinkedIn: [[Sharan Madhav](https://www.linkedin.com/in/sharanmadhav/)]
