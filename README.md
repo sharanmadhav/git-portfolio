@@ -6,7 +6,7 @@
 </div>
 
 ## 🚀 About Me
-A passionate Full-Stack Developer at Zoho, where I specialize in building and maintaining cloud-based applications using mordern technologies.
+A passionate Full-Stack Developer at Zoho,Specialize in building and maintaining cloud-based applications using mordern technologies.
 
 
 [![GitHub followers](https://img.shields.io/badge/Madhav-BBDDE5?logo=refinedgithub)](https://github.com/sharanmadhav)
