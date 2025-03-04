@@ -2,11 +2,11 @@
 # 👋 Hi there, I'm [Sharan madhav]
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=08D440&width=435&lines=Hey%2C+I'm+Madhav+%E2%80%93+Transforming+ideas+into+reality." alt="Hey, I'm Madhav – Transforming ideas into reality." /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=08D440&width=435&lines=Transforming+ideas+into+reality." alt="Transforming ideas into reality." /></a>
 </div>
 
 ## 🚀 About Me
-A passionate Full-Stack Developer at Zoho, where I specialize in building and maintaining cloud-based applications using using mordern technologies.
+A passionate Full-Stack Developer at Zoho, where I specialize in building and maintaining cloud-based applications using mordern technologies.
 
 
 [![GitHub followers](https://img.shields.io/badge/Madhav-BBDDE5?logo=refinedgithub)](https://github.com/sharanmadhav)
